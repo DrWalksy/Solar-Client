@@ -1,34 +1,8 @@
-# EaglercraftX Replit Archive
+# Solar Client
 
 
-Hi everyone!
 
-First, please go buy Minecraft.
-
-
----
-
-
-Ok, done? Now we can proceed...
-
-This repository contains a slimmed-down archive of the eaglercraftx (1.8) replit project. It is missing a few things; namely:
-- eula.txt and server jar deleted from server folder
-- selsrv.sh exits early, because:
-- misc folder removed due to containing jars that I cannot with 100% certainty distribute
-
-This repository **DOES NOT** contain ANYTHING that can be reasonably DMCA'd.
-
-
----
-
-## original readme:
-
----
-
-# EaglercraftX
-
-
-#### smashed together by [ayunami2000](https://github.com/ayunami2000)
+#### smashed together by [EpicGamer1912]
 ##### and [EaglercraftX](https://gitlab.com/lax1dude/eaglercraftx-1.8) developed by [lax1dude](https://github.com/lax1dude)
 
 ## How do I use this?
@@ -84,4 +58,4 @@ Someone else will make that I'm sure. You can also go put it on the subreddit an
 
 ---
 
-This amazing cool and very awesome Replit was created by yours truly **ayunami2000**. You can find me over on [GitHub](https://github.com/ayunami2000) or on my [website](https://ayunami2000.github.io).
+This amazing cool and very awesome Replit was created by yours truly **DrWalksy**. You can find me over on my [Replit](https://replit.com/@Nathanpro1014).
