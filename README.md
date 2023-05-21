@@ -2,7 +2,7 @@
 
 
 
-#### smashed together by [EpicGamer1912]
+#### smashed together by [EpicGamer1912] (https://github.com/EpicGamer1915)
 ##### and [EaglercraftX](https://gitlab.com/lax1dude/eaglercraftx-1.8) developed by [lax1dude](https://github.com/lax1dude)
 
 ## How do I use this?
